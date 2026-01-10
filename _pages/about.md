@@ -1,21 +1,21 @@
 ---
 permalink: /
-title: "Bio"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I am a Postdoctoral Research Associate at Data-Driven EnviroLab (DDL), University of North Carolina at Chapel Hill. Prior to joining DDL, I received my Ph.D. in Environmental Sciences and Engineering from Gillings School of Global Public Health at University of North Carolina at Chapel Hill.
+I am an Assistant Professor in the School of Humanities and Social Science at The Chinese University of Hong Kong, Shenzhen. Before joining CUHK-Shenzhen, I was a Postdoctoral Research Associate at the Data-Driven EnviroLab and earned my Ph.D. in Environmental Sciences and Engineering from the Gillings School of Global Public Health at the University of North Carolina at Chapel Hill.
 
-My research centers on the intersection of climate change, energy systems, and social equity, aiming to generate data-driven, policy-relevant evidence to support a just and resilient future. I develop and apply computational approaches that combine machine learning, remote sensing, and economic modeling to assess energy vulnerability and urban climate risks, and to inform climate and energy policymaking across cities and regions. My work addresses critical data and evidence gaps in urban climate resilience and energy transitions, particularly in contexts where traditional statistics are incomplete, coarse, or unavailable. My research has been published in Nature Cities, Environmental Science & Technology, and Renewable and Sustainable Energy Reviews, and has been cited in the IPCC Special Report on Climate Change and Cities.
+My research sits at the intersection of climate change, energy systems, and social equity. I develop computational approaches that integrate machine learning, remote sensing, and economic modeling to quantify energy vulnerability, assess urban climate risks, and generate data-driven, policy-relevant evidence to support a just and resilient future. A core focus of my work is closing data and policy gaps in urban climate resilience and energy transitions—especially in contexts where official statistics are incomplete, coarse, inconsistent, or unavailable—by building scalable metrics and high-resolution datasets that inform decisions across cities and regions.
 
-My research has been supported by diverse sources, including Alfred P. Sloan Foundation, National Science Foundation (NSF), IKEA Foundation, and Global Covenant of Mayors for Climate and Energy (GCoM).
+My research has been published in leading journals, including Environmental Science & Technology, Renewable and Sustainable Energy Reviews, and Nature Cities, and has been cited by the IPCC Special Report on Climate Change and Cities. My work has also been supported by international funders, including the National Science Foundation (NSF), the Alfred P. Sloan Foundation (via Duke University), the IKEA Foundation, and the Global Covenant of Mayors for Climate and Energy (GCoM).
 
 Research Topics
 ======
-- Urban Climate Resilience
+- Urban Climate Change
 - Just Energy Transition
 - Climate–Energy Equity Nexus
 - Computational Sustainability
