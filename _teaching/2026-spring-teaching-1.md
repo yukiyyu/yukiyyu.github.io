@@ -4,7 +4,7 @@ collection: teaching
 type: "Instructor"
 permalink: /teaching/2026-spring-teaching-1
 venue: "Graduate Course, The Chinese University of Hong Kong, Shenzhen"
-date: 2026
+date: 2026-01-05
 location: ""
 ---
 <!-- 
