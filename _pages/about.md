@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an Assistant Professor in the School of Humanities and Social Science at The Chinese University of Hong Kong, Shenzhen. Before joining CUHK-Shenzhen, I was a Postdoctoral Research Associate at the Data-Driven EnviroLab and earned my Ph.D. in Environmental Sciences and Engineering from the Gillings School of Global Public Health at the University of North Carolina at Chapel Hill.
+I am an Assistant Professor in the School of Humanities and Social Science at The Chinese University of Hong Kong, Shenzhen. Before joining CUHK-Shenzhen, I was a Postdoctoral Research Associate at Data-Driven EnviroLab and earned my Ph.D. in Environmental Sciences and Engineering from Gillings School of Global Public Health at University of North Carolina at Chapel Hill.
 
 My research sits at the intersection of climate change, energy systems, and social equity. I develop computational approaches that integrate machine learning, remote sensing, and economic modeling to quantify energy vulnerability, assess urban climate risks, and generate data-driven, policy-relevant evidence to support a just and resilient future. A core focus of my work is closing data and policy gaps in urban climate resilience and energy transitions—especially in contexts where official statistics are incomplete, coarse, inconsistent, or unavailable—by building scalable metrics and high-resolution datasets that inform decisions across cities and regions.
 
